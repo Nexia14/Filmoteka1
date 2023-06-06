@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "407219328719",
+    "project_id": "fir-regist-51bc9",
+    "storage_bucket": "fir-regist-51bc9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:407219328719:android:8bb0ef95fcc8b49c9209ba",
+        "android_client_info": {
+          "package_name": "it.mirea.cursov"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "407219328719-g0id2o8uml4r1o2cbhdngnm7m713e3o0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAx7i3_mKGEyt2f4a7RzPF0ivkKxmL_k2U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "407219328719-g0id2o8uml4r1o2cbhdngnm7m713e3o0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
